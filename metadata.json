@@ -1,0 +1,8 @@
+{
+  "name": "Signature Dine — Authentic Andhra Restaurant in Guntur",
+  "description": "Visit Signature Dine in Brindavan Gardens, Guntur, for flavorful Andhra cuisine, delicious biryanis, starters, and a memorable dining experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
